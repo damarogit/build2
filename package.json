@@ -1,0 +1,9 @@
+{
+  "name": "build2learn",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0",
+    "toast-grid": "^0.2.0"
+  }
+}
